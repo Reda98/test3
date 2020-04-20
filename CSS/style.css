@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+
+    background-color:white;
+    color: white;
+    font-family: 'Roboto' sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+html {
+    display: block;
+    color: red;
+    	
+}
+}
+body {
+    display: block;
+    margin: 25px;
+}
+div {
+    display: block;
+}
+
+       h1, h2{
+    	 color: pink;
+         font-family: 'Lora' sans-serif;
+         font-size: 30px;
+         font-weight: : lighter;
+         letter-spacing: 8px;
+         
+}
+       a {
+       	text-decoration: none;
+      color: red;
+       }
+a:hover {
+	color: lightblue;
+}
+
+.card-white {
+
+    background-color: white;
+    padding: 60px;
+    box-shadow: 10px 30px 30px rgba(0,0,0,0.1);
+    border-radius: 22px;
+    margin: 72px 200px;
+    text-align: center;
+}
+
+.img-circle {
+	margin: 25;
+    display: center;
+    width: 50%;
+    border-radius: 50%
+}
+
+.btn-pink {
+    background-color: #434E52;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: #272E4F
+}
+.list-inline i:
+hover {
+	font-size: 50px;
+	color: pink; 
+}
+
+
+div {
+    display: block;
+}
+a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: red;
+    font-weight: 600;
+    font-size: 16px;
+}
+body {
+    background-color: white;
+    color:red;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+}
+
